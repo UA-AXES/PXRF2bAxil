@@ -14,7 +14,7 @@ After downloading, execute the installation installation file, e.g. by double cl
 
 After successful installation, start Matlab if not yet running and click on the `Apps` tab and select the PXRF2bAxil app.
 
-![Starting PXRF2bAxil](/images/PXRFbAxilStart.png)
+![Starting PXRF2bAxil](/images/PXRF2bAxilStart.png)
 
 
 ## Using PAXRF2bAxil
