@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2814632609" file="/Users/PVE/bAxilDev/TestSpectra/PXRF/Innov-X/PXRF2bAxil.prj" location="/Users/PVE/bAxilDev/TestSpectra/PXRF/Innov-X" name="PXRF2bAxil" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="4171199030" file="/Users/PVE/bAxilDev/FileFormats/PXRF/PXRF2bAxil/develop/PXRF2bAxil.prj" location="/Users/PVE/bAxilDev/FileFormats/PXRF/PXRF2bAxil/develop" name="PXRF2bAxil" target="target.mlapps" target-name="Package App">
     <param.appname>PXRF2bAxil</param.appname>
     <param.authnamewatermark>P. Van Espen</param.authnamewatermark>
     <param.email>piet.vanespen@uantwerpen.be</param.email>
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>Converts InnovX PXRF files to bAxil</param.summary>
     <param.description>Reads InnovX portable XRF spectra saved in CSV files and allows to safe the spectra in formats readeable by bAxil, AXML, SPE and TXT.</param.description>
-    <param.screenshot>/private/var/folders/t3/hjfzd5sx23l0dr33g_v4dk200000gq/T/tpc2a46ebf_edc0_46ae_bdf6_25009ed82636.png</param.screenshot>
+    <param.screenshot>/private/var/folders/t3/hjfzd5sx23l0dr33g_v4dk200000gq/T/tpa45ae873_6702_4a0c_bd20_0191e18c68aa.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
@@ -33,7 +33,7 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="/Users/PVE/bAxilDev/TestSpectra/PXRF" name="Innov-X" optional="false">/Users/PVE/bAxilDev/TestSpectra/PXRF/Innov-X</file>
+      <file location="/Users/PVE/bAxilDev/FileFormats/PXRF/PXRF2bAxil" name="develop" optional="false">/Users/PVE/bAxilDev/FileFormats/PXRF/PXRF2bAxil/develop</file>
     </build-deliverables>
     <workflow />
     <matlab>
